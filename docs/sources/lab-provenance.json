@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-10",
+  "source_repository": "alvarovillalbaa/lab",
+  "source_revision": "ba67e510bab2703b1042993744ce099490221c1f",
+  "sources": [
+    {
+      "path": "docs/specs/steps.md",
+      "heading": "# 8. Phase 4 — tokenizer",
+      "start_line": 339,
+      "end_line": 367
+    },
+    {
+      "path": "docs/IMPLEMENTATION_BACKLOG.md",
+      "section": "Tokenizer"
+    },
+    {
+      "path": "data/tokenizer/README.md"
+    }
+  ],
+  "intermediate_repository": "alvarovillalbaa/model-data",
+  "intermediate_revision": "89325b15e7c7e31f9e0eff234dbd608e387b2d1c",
+  "intermediate_source_sha256": {
+    "docs/specs/blueprint.md": "289f2760d8cdaeab40df39d013716869ca16ce865fccc9cceecde3295f67b479",
+    "docs/specs/backlog.md": "39d25f2c5826e3d2f703b8ed4f67b910bcaabfe7c29b7397106cf23b19e3dd0f",
+    "data/tokenizer/README.md": "d462a9c76c1e5fd8828d4b3e2f44006924a811beae8aae04106e5ad8f97b20cd"
+  },
+  "preservation": "The exact previous combined documents are archived in model-data; the original tokenizer artifact placeholder is retained here. New active specifications do not claim an implementation.",
+  "boundary_map": "https://github.com/alvarovillalbaa/model-data/blob/split/tokenizers/docs/sources/tokenizer-boundary-map.json"
+}
