@@ -1,5 +1,9 @@
 # model-tokenizers
 
+<!-- project-family:start -->
+> **Project family:** [AI Research Lab](https://github.com/alvarovillalbaa#ai-research-lab) · **Area:** Tokenization
+<!-- project-family:end -->
+
 Last updated: 2026-11-10
 
 Train, inspect, and compare tokenizer artifacts independently of dataset
